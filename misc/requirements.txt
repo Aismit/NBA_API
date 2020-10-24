@@ -1,0 +1,6 @@
+Flask
+flask_api
+mysqlclient
+mysql-connector
+requests
+sklearn
